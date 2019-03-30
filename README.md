@@ -6,7 +6,13 @@ A interesting bottom navibar.
 
 ## How To Use
 
+Import the library in your pubspec.yaml as this.
+
+``` tx_navibar: 0.1.0 ```
+
 See the code in the example module , it is very simple. 
+
+
 Continue......
 
 ## Getting Started
