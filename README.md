@@ -1,6 +1,8 @@
 # tx_navibar
 
-A new Flutter project.
+A interesting bottom navibar.
+
+
 
 ## Getting Started
 
