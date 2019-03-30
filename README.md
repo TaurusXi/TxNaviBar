@@ -6,7 +6,8 @@ A interesting bottom navibar.
 
 ## How To Use
 
-continue......
+See the code in the example module , it is very simple. 
+Continue......
 
 ## Getting Started
 
