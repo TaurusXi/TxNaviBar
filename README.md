@@ -1,7 +1,7 @@
 # tx_navibar
 
 A interesting bottom navibar.
-
+![example.gif](https://github.com/TaurusXi/TxNaviBar/blob/master/example.gif)
 
 
 ## Getting Started
