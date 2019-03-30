@@ -4,6 +4,10 @@ A interesting bottom navibar.
 ![example.gif](https://github.com/TaurusXi/TxNaviBar/blob/master/example.gif)
 
 
+## How To Use
+
+continue......
+
 ## Getting Started
 
 This project is a starting point for a Dart
