@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_navibar/google_navibar.dart';
+import 'package:tx_navibar/tx_navibar.dart';
 
 const kHomeMainColor = Color.fromRGBO(94, 58, 178, 1.0);
 

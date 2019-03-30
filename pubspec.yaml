@@ -1,8 +1,8 @@
-name: google_navibar
-description: A new Flutter project.
-version: 0.0.1
-author:
-homepage:
+name: tx_navibar
+description: A interesting bottom navi bar.
+version: 0.1.0
+author: taurusxi <ch.xi@onedayapp.cn>
+homepage: https://github.com/TaurusXi/TxNaviBar
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

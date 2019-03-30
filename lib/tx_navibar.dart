@@ -1,4 +1,4 @@
-library google_navibar;
+library tx_navibar;
 
 import 'dart:math' as math;
 

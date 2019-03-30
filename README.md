@@ -1,4 +1,4 @@
-# google_navibar
+# tx_navibar
 
 A new Flutter project.
 
