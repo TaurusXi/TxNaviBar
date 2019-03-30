@@ -6,6 +6,8 @@
 
 .idea
 
+*/pubspec.lock
+
 build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
