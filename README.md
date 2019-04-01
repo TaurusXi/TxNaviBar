@@ -1,6 +1,19 @@
 # tx_navibar
 
-A new Flutter project.
+A interesting bottom navibar.
+![example.gif](https://github.com/TaurusXi/TxNaviBar/blob/master/example.gif)
+
+
+## How To Use
+
+Import the library in your pubspec.yaml as this.
+
+``` tx_navibar: 0.1.0 ```
+
+See the code in the example module , it is very simple. 
+
+
+Continue......
 
 ## Getting Started
 
