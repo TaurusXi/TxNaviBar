@@ -12,6 +12,38 @@ Import the library in your pubspec.yaml as this.
 
 See the code in the example module , it is very simple. 
 
+```dart
+_tabChange(int index, bool isChange) {
+    print("index:$index--isChange:$isChange");
+    if (isChange) {
+      _controller.jumpToPage(index);
+      _currentIndex = index;
+      print("_currentIndex:$_currentIndex");
+      setState(() {});
+    }
+  }
+var bottomNaviBar = TXBottomNaviBar(
+        tabChange: _tabChange,
+        items: [
+          BottomNaviItem(
+              title: "Home",
+              icon: "assets/home.png",
+              backgroudColor: kHomeMainColor),
+          BottomNaviItem(
+              title: "Likes",
+              icon: "assets/like.png",
+              backgroudColor: kLikesMainColor),
+          BottomNaviItem(
+              title: "Search",
+              icon: "assets/search.png",
+              backgroudColor: kSearchMainColor),
+          BottomNaviItem(
+              title: "Profile",
+              icon: "assets/person.png",
+              backgroudColor: kProfileMainColor),
+        ],
+      );
+```
 
 Continue......
 

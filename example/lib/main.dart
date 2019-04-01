@@ -9,11 +9,21 @@ const kSearchMainColor = Color.fromRGBO(231, 150, 8, 1.0);
 
 const kProfileMainColor = Color.fromRGBO(24, 131, 154, 1.0);
 
-void main() => runApp(MaterialApp(
+void main() => runApp(MyApp());
+
+
+class MyApp extends StatelessWidget {
+
+  @override
+  Widget build(BuildContext context) {
+    // TODO: implement build
+    return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData.light(),
       home: NavigationKeepAlive(),
-    ));
+    );
+  }
+}
 
 class NavigationKeepAlive extends StatefulWidget {
   @override
