@@ -4,13 +4,24 @@ A interesting bottom navibar.
 ![example.gif](https://github.com/TaurusXi/TxNaviBar/blob/master/example.gif)
 
 
+## Run the example
+
+You can run this example like this ...
+
+```dash
+cd example
+flutter create .
+flutter run
+```
+
+
 ## How To Use
 
 Import the library in your pubspec.yaml as this.
 
-``` tx_navibar: 0.1.0 ```
+``` tx_navibar: 0.1.1 ```
 
-See the code in the example module , it is very simple. 
+It is very simple , you can use this package like ... . 
 
 ```dart
 _tabChange(int index, bool isChange) {
